@@ -1,4 +1,4 @@
-# CummonerPy
+# CummonerJS
 This is a simple script to download all the chapters from [The Cummoner](https://totempole666.com/) adult webcomic from its official website, all neatly organized per chapters.  
 This script also exists in python: [https://github.com/visotoniki9/cummonerPy](https://github.com/visotoniki9/cummonerPy)
 ## How to run 
